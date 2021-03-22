@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

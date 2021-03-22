@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\obj\Debug\Classes.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Classes\obj\Debug\Classes.csprojAssemblyReference.cache

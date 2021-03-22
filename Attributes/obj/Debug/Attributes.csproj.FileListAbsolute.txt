@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\bin\Debug\Attributes.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\obj\Debug\Attributes.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Attributes\obj\Debug\Attributes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\bin\Debug\Collections2.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\bin\Debug\Collections2.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\bin\Debug\Collections2.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\obj\Debug\Collections2.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\obj\Debug\Collections2.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\obj\Debug\Collections2.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Collections2\obj\Debug\Collections2.pdb

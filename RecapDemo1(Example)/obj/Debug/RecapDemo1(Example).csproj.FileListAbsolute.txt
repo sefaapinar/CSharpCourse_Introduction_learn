@@ -1,0 +1,10 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\bin\Debug\RecapDemo1(Example).exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\bin\Debug\RecapDemo1(Example).exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\bin\Debug\RecapDemo1(Example).pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1(Example).csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1_Example_.Form1.resources
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1_Example_.Properties.Resources.resources
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1(Example).csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1(Example).csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1(Example).exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo1(Example)\obj\Debug\RecapDemo1(Example).pdb

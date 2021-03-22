@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

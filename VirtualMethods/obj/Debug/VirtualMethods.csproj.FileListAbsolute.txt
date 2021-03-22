@@ -1,0 +1,6 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb

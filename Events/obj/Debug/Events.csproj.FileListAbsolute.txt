@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Events\obj\Debug\Events.pdb

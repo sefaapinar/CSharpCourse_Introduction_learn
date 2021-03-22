@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\Delegates\obj\Debug\Delegates.pdb

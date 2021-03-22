@@ -1,0 +1,6 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\bin\Debug\RecapDemo2(Abstract).exe.config
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\bin\Debug\RecapDemo2(Abstract).exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\bin\Debug\RecapDemo2(Abstract).pdb
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\obj\Debug\RecapDemo2(Example).csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\obj\Debug\RecapDemo2(Abstract).exe
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\RecapDemo2(Abstract)\obj\Debug\RecapDemo2(Abstract).pdb

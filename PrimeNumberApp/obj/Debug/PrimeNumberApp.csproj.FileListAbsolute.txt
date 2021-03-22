@@ -1,0 +1,2 @@
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\PrimeNumberApp\obj\Debug\PrimeNumberApp.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\C# - App\Uygulamalarım\CSharpCourse\PrimeNumberApp\obj\Debug\PrimeNumberApp.csproj.CoreCompileInputs.cache
